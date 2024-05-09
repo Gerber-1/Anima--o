@@ -18,6 +18,11 @@ Você pode ver uma demonstração ao vivo do componente do cartão aqui. https:/
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Implantação em produção
+- Back end: Não possui
+- Front end web: Netlify
+- Banco de dados: Não possui
+  
 # Autor
 
 Gerber Bruno
